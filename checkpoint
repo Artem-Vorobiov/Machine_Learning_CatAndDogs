@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/tim/Documents/AI_catsVSdogs/dogsvscats-0.001-2conv-basic.model"
+all_model_checkpoint_paths: "/Users/tim/Documents/AI_catsVSdogs/dogsvscats-0.001-2conv-basic.model"
